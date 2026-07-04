@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Olfactory Constellation: a tool for cross-referencing molecular structure, vibrational data, and odor"
+message: "If you use this software, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Rick
+    family-names: Scianablo Jr
+    0009-0005-8713-9041 orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >-
+  Software that transforms user-supplied public olfaction datasets into two interactive
+  maps of chemical space (one by molecular structure, one by odor similarity) and detects
+  structure-odor activity cliffs. The tool contains no third-party data; it processes data
+  the user obtains under its own terms. Original contributions: the cross-linking method,
+  the two-lens layout approach, and the activity-cliff detection.
+keywords:
+  - olfaction
+  - cheminformatics
+  - structure-odor relationship
+  - data visualization
+  - activity cliff
+license: MIT
+version: "1.0"
+date-released: 2026-01-01
