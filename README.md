@@ -74,7 +74,7 @@ olfactory_constellation.html, perceptual_constellation.html.
 **Tool:**
 > Rick Scianablo Jr (2026). *Olfactory Constellation: a tool for cross-referencing molecular
 > structure, vibrational data, and odor* (Version 1.0) [Software]. Zenodo.
-> https://doi.org/_[DOI assigned on upload]_ - ORCID: [register free at orcid.org and paste here]
+> https://doi.org/10.5281/zenodo.21184930 - ORCID: 0009-0005-8713-9041
 
 **Whichever data you feed it — cite the original source, e.g.:**
 - Ameta, D., Behera, L., Chakraborty, A., & Sandhan, T. (2024). Predicting odor from vibrational

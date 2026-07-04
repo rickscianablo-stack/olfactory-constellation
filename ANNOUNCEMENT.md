@@ -85,7 +85,7 @@ interactive viewers are archived with a citable DOI.
 
 **Cite as:** Rick Scianablo Jr (2026). *Olfactory Constellation: a tool for cross-referencing
 molecular structure, vibrational data, and odor* (Version 1.0) [Software]. Zenodo.
-DOI: _[assigned on release]_
+DOI: 10.5281/zenodo.21184930
 
 *Foundational data sources — including Ameta et al. (2024, Scientific Reports) for vibrational
 and odor data — should be cited by users according to those sources' terms. The structure-odor
